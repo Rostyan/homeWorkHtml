@@ -14,29 +14,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="116">
+              <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/example.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-              <folding />
+            <state relative-caret-position="108">
+              <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+              <folding>
+                <element signature="e#4#235#0" expanded="false" />
+                <element signature="e#246#355#0" expanded="false" />
+                <element signature="e#378#482#0" expanded="false" />
+                <element signature="e#508#615#0" expanded="false" />
+                <element signature="e#641#668#0" expanded="false" />
+                <element signature="e#674#792#0" expanded="false" />
+                <element signature="e#796#961#0" expanded="false" />
+                <element signature="e#976#1192#0" expanded="false" />
+                <element signature="e#1205#1433#0" expanded="false" />
+                <element signature="e#1444#1645#0" expanded="false" />
+                <element signature="e#1661#1864#0" expanded="false" />
+                <element signature="e#1881#2084#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503578660661</updated>
-      <workItem from="1503578662310" duration="8603000" />
+      <workItem from="1503578662310" duration="12918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8603000" />
+    <option name="totallyTimeSpent" value="12918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1063" y="24" width="1321" height="772" extended-state="6" />
@@ -160,11 +166,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/content-bg.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/body-bg.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -185,6 +186,37 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/button-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/content-bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <folding>
+            <element signature="e#4#235#0" expanded="false" />
+            <element signature="e#246#355#0" expanded="false" />
+            <element signature="e#378#482#0" expanded="false" />
+            <element signature="e#508#615#0" expanded="false" />
+            <element signature="e#641#668#0" expanded="false" />
+            <element signature="e#674#792#0" expanded="false" />
+            <element signature="e#796#961#0" expanded="false" />
+            <element signature="e#976#1192#0" expanded="false" />
+            <element signature="e#1205#1433#0" expanded="false" />
+            <element signature="e#1444#1645#0" expanded="false" />
+            <element signature="e#1661#1864#0" expanded="false" />
+            <element signature="e#1881#2084#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -192,21 +224,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/button-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+        <state relative-caret-position="116">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
           <folding />
         </state>
       </provider>
