@@ -1,0 +1,45 @@
+body{
+    background: #b8b8b8;
+    font-size: 13px;
+    color: #333;
+    line-height: 18px;
+}
+
+#content{
+    width: 800px;
+    padding: 20px 30px;
+    background: #fff;
+}
+
+h1{
+    font-size: 26px;
+    font-weight: normal;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    line-height: 30px;
+    color: #333;
+}
+h2{
+    font-size: 36px;
+    font-weight: normal;
+    font-style: italic;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    line-height: 46px;
+    color: #333;
+}
+
+.fixed{
+    position: fixed;
+    top: 20px;
+    right: 0px;
+    width: 200px;
+    padding: 20px;
+    font-style: italic;
+    background: #666;
+    color: #fff;
+}
+
+#puzzle{
+    
+}
